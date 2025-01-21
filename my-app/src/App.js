@@ -8,6 +8,7 @@
      <div style={{ textAlign: "center", padding: "50px" }}>
        <h1>Welcome to My First React App!</h1>
        <p>This is my first React project. 🎉</p>
+       
      </div>
    );
  }
